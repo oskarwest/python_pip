@@ -247,8 +247,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# para que git ignore subir estas imágenes al repositorio
-*.png
+# Dont upload images to Git 
+# *.png
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
 
