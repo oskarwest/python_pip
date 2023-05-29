@@ -1,4 +1,4 @@
-# Game Project 
+# Run Game Project 
 
 Para correr el juego debes ejecutar en la terminal las siguiente lineas de comando:
 
